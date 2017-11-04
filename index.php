@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -9,10 +9,7 @@
 
 <P>
 
-  لوريم اوبسوم شسشسشسشس المغرب  سيسيسي
- المسار الجوي للارض   <br>
-<strong> المجال الكهرمغناطيسي</strong><br>
-  دول العالم الثالث
+Welcommmmmmme :)
 
 
 </P>
